@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="cmu_time_awb">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jarvis/hellp/freetts-1.2/lib/cmu_time_awb.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jarvis/hellp/freetts-1.2/lib/cmu_us_kal.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jarvis/hellp/freetts-1.2/lib/en_us.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jarvis/hellp/freetts-1.2/lib/freetts-jsapi10.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jarvis/hellp/freetts-1.2/lib/freetts.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jarvis/hellp/freetts-1.2/lib/jsapi.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jarvis/hellp/freetts-1.2/lib/mbrola.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jarvis/hellp/selenium-server-4.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
